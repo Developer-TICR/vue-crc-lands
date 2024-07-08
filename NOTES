@@ -1,0 +1,23 @@
+Venta de Lote Puerto Soley  
+Bahía Salinas La Cruz Guanacaste
+Playas cercanas: - Rajada - Copal - Papaturro"
+
+
+
+
+<v-layout>
+      <v-app-bar
+        color="blue-darken-1"
+      >
+      <template v-slot:append>
+        <h1>HIELO</h1>
+      </template>
+      
+        <template v-slot:prepend>
+          <h1>HIELO 2</h1>
+        </template>
+      </v-app-bar>
+    </v-layout>
+
+
+    
